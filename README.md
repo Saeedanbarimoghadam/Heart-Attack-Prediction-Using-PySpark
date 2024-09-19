@@ -1,4 +1,5 @@
 # Heart Attackn Prediction Using PySpark
+Heart Attack Prediction Using PySpark
 This project aims to predict the likelihood of a heart attack using various machine learning models implemented in PySpark. The dataset used includes 303 records with 14 features, such as age, gender, cholesterol levels, resting blood pressure, chest pain type, maximum heart rate, and other clinical measurements. The target variable represents the presence or absence of a heart attack.
 
 Data Overview:
